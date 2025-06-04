@@ -1,4 +1,5 @@
 # 👋 ¡Hola! Soy marietuco11
+---
 
 🎓 Estudiante de Ingeniería Informática en la Universidad de Zaragoza  
 💻 Apasionado por el desarrollo de software distribuido, aplicaciones móviles y sistemas backend  
@@ -38,6 +39,6 @@ Simulación de un entorno cliente-servidor distribuido con múltiples nodos cone
 - **Otras herramientas**: Git, GitHub Actions, SSH, UML
 - **Áreas**: Sistemas distribuidos, desarrollo web y móvil, arquitectura cliente-servidor
 
----
+
 
 *Gracias por visitar mi perfil. ¡Siempre aprendiendo y creando!*
